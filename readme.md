@@ -1,7 +1,7 @@
 # VADI - Validation, Automation, Data Integrity
 
 O VADI é uma biblioteca multifuncional de validação de dados, projetada para facilitar a integridade e automação de dados em projetos diversos. Com suporte para várias linguagens de programação, incluindo Python, Ruby, Elixir e Perl, o VADI oferece funções robustas para validar emails, telefones, senhas, CPFs, datas e nomes de usuário. Este repositório serve como uma base para utilização e adaptação em diferentes cenários de desenvolvimento.
-Funcionalidades
+## Funcionalidades:
 - Validação de Email: Verifica se um email está em um formato válido.
 - Validação de Telefone: Verifica se um número de telefone segue o padrão brasileiro de 10 ou 11 dígitos.
 - Validação de Senha: Garante que uma senha tenha pelo menos 8 caracteres, incluindo letras maiúsculas, números e caracteres especiais.
